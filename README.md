@@ -1,6 +1,7 @@
 # geometry-app
 
-![main app screen](https://raw.githubusercontent.com/NataliaZhydeikina/geometry-app/main/assets/imgs/main.jpg)
+[site](https://relaxed-valkyrie-52aba1.netlify.app)
+[![main app screen](https://raw.githubusercontent.com/NataliaZhydeikina/geometry-app/main/assets/imgs/main.jpg)](https://relaxed-valkyrie-52aba1.netlify.app)
 
 ## Build Setup
 
